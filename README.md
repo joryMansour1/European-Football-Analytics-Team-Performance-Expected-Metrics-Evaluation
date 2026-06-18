@@ -65,7 +65,7 @@ IF([xG Difference] > 0, "Overperforming", "Underperforming")
 
 # Dashboard & Visualizations
 
-[***...***](https://jorymansour.github.io/European-Football-Analytics-Team-Performance-Expected-Metrics-Evaluation/)
+[***DASHBOARD***](https://jorymansour.github.io/European-Football-Analytics-Team-Performance-Expected-Metrics-Evaluation/)
 
 
 # Core Visuals Include:
