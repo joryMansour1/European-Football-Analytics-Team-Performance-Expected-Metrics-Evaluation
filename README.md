@@ -47,7 +47,7 @@ Football clubs, betting syndicates, and sports media need to evaluate team perfo
 
 # Dashboard & Visualizations
 
-[***DASHBOARD***](https://jorymansour.github.io/European-Football-Analytics-Team-Performance-Expected-Metrics-Evaluation/)
+[***DASHBOARD***]([https://jorymansour.github.io/European-Football-Analytics-Team-Performance-Expected-Metrics-Evaluation/](https://jorymansour1.github.io/European-Football-Analytics-Team-Performance-Expected-Metrics-Evaluation/))
 
 
 ### Visualizations Implemented:
