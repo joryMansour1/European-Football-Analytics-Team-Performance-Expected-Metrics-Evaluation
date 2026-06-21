@@ -1,6 +1,5 @@
 # European-Football-Analytics-Team-Performance-Expected-Metrics-Evaluation
 PL25\26 
-Here is the complete, formatted Markdown text for your `README.md` file. You can copy and paste this directly into your GitHub repository or portfolio platform.
 
 ---
 
